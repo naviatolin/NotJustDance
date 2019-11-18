@@ -1,2 +1,2 @@
 # NotJustDance
-Simon Says But Just Dance
+Simon Says Just Dance
